@@ -1,3 +1,4 @@
+#every file with the extension .Rproj.user, .Rhistory, .RData is ignored
 .Rproj.user
 .Rhistory
 .RData
